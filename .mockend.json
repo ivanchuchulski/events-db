@@ -11,7 +11,7 @@
             "password": "example2"
         }
     ],
-    "events": [
+    "Event": [
         {
             "theme": "WebSocket",
             "presentDate": "2020-04-29 10:15:00",
